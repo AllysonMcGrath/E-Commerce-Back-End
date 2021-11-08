@@ -40,8 +40,6 @@ Trilogy Education Services, LLC, a 2U, Inc. brand
 
 [Xander Rapstine](https://github.com/Xandromus)
 
-[John McCambridge](https://github.com/nol166)
-
 
 ## License
 
