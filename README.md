@@ -1,4 +1,4 @@
-# E-commerce Back End-MySQL, Sequelize, 
+# E-commerce Back End-MySQL, Sequelize
 
 ## Description
 
@@ -10,7 +10,7 @@ This is a project where we were given a working Express.js API and required to u
 
 To download the repository, use the following command:
 
-$ git clone https://github.com/AllysonMcGrath/cbcchallenge11.git
+$ git clone https://github.com/AllysonMcGrath/e-commerce-back-end.git
 
 Detailed instructions for cloning GitHub repositories can be found [here.](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
 
